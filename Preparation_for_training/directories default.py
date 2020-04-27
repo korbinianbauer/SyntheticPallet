@@ -1,0 +1,10 @@
+image_dir_input = '/home/korbinian/Desktop/Preparation_for_training/input/images/'
+label_dir_input = '/home/korbinian/Desktop/Preparation_for_training/input/labels/'
+image_dir_train = '/home/korbinian/Desktop/Preparation_for_training/output/images_train/'
+label_dir_train = '/home/korbinian/Desktop/Preparation_for_training/output/labels_train/'
+image_dir_val = '/home/korbinian/Desktop/Preparation_for_training/output/images_val/'
+label_dir_val = '/home/korbinian/Desktop/Preparation_for_training/output/labels_val/'
+
+annotations_file_val = '/home/korbinian/Desktop/Preparation_for_training/output/annotations_val.csv'
+annotations_file_train = '/home/korbinian/Desktop/Preparation_for_training/output/annotations_train.csv'
+associations_file = '/home/korbinian/Desktop/Preparation_for_training/output/associations.csv'
